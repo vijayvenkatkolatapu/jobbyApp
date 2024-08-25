@@ -1,4 +1,6 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+In this project, I have build a **Jobby App** by applying the concepts that I have learned till now.
+
+DEPLOYMENT LINK: https://vvjobbyapp.ccbp.tech/login
 
 ### Refer to videos below:
 
